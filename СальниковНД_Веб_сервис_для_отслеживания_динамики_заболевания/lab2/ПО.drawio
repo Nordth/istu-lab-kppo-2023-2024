@@ -1,0 +1,169 @@
+<mxfile host="65bd71144e">
+    <diagram id="tDXp96YzrMXz_-7slASk" name="Страница 1">
+        <mxGraphModel dx="2026" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="ПО" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="474" y="10" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontColor=#F0F0F0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;align=center;" edge="1" parent="1" source="3" target="8">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="20" y="400" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="20" y="220"/>
+                            <mxPoint x="20" y="400"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Инициализация проекта&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="190" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;span style=&quot;font-size: 13px; caret-color: rgb(55, 65, 81);&quot;&gt;Разработка технического задания&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;align=center;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="280" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;span style=&quot;font-size: 13px; caret-color: rgb(55, 65, 81);&quot;&gt;Анализ заинтересованных сторон&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;align=center;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="370" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;align=center;" edge="1" parent="1" target="7">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="20" y="310" as="sourcePoint"/>
+                        <mxPoint x="700" y="510" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontColor=#F0F0F0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;align=center;" edge="1" parent="1" source="13" target="16">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="180" y="410" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="180" y="220"/>
+                            <mxPoint x="180" y="400"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="&lt;span style=&quot;font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px; caret-color: rgb(55, 65, 81);&quot;&gt;Разработка методологии тестирования&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="190" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;span style=&quot;font-size: 13px; font-family: Calibri, sans-serif;&quot;&gt;Разработка схемы&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="460" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;span style=&quot;font-size: 13px; font-family: Calibri, sans-serif;&quot;&gt;Разработка дизайна пользовательского интерфейса&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="280" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" edge="1" parent="1" source="16" target="14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" edge="1" parent="1" source="16" target="18">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;span style=&quot;font-size: 13px; font-family: Calibri, sans-serif;&quot;&gt;Проектирование базы данных&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="370" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" edge="1" parent="1" target="13">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="260" y="130" as="sourcePoint"/>
+                        <mxPoint x="700" y="510" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="&lt;span style=&quot;font-size: 13px; font-family: Calibri, sans-serif;&quot;&gt;Создание таблиц&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="460" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;align=center;" edge="1" parent="1" target="15">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="180" y="310" as="sourcePoint"/>
+                        <mxPoint x="50" y="320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="35" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" edge="1" parent="1" source="23" target="24">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;span style=&quot;font-size: 13px; font-family: Calibri, sans-serif;&quot;&gt;Разработка модуля пользователей&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="474" y="190" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" edge="1" parent="1" source="24" target="25">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="&lt;span style=&quot;font-size: 13px; font-family: Calibri, sans-serif;&quot;&gt;Разработка модуля аутентификации&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="474" y="280" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" edge="1" parent="1" source="25" target="26">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="&lt;span style=&quot;font-size: 13px; font-family: Calibri, sans-serif;&quot;&gt;Разработка модуля автоматического тестирования&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="474" y="370" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" edge="1" parent="1" source="26" target="28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" edge="1" parent="1" source="26" target="29">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="&lt;span style=&quot;font-size: 13px; font-family: Calibri, sans-serif;&quot;&gt;Разработка API&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="474" y="460" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="&lt;span style=&quot;font-size: 13px; font-family: Calibri, sans-serif;&quot;&gt;API сервиса пользователей&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="414" y="555" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;span style=&quot;font-size: 13px; font-family: Calibri, sans-serif;&quot;&gt;API автоматического тестирования&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="555" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;align=center;" edge="1" parent="1" target="47">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="400" y="130" as="sourcePoint"/>
+                        <mxPoint x="950" y="130" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="950" y="130"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="33" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;align=center;" edge="1" parent="1" target="3">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="400" y="130" as="sourcePoint"/>
+                        <mxPoint x="100" y="130" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="100" y="130"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="34" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="534" y="130" as="sourcePoint"/>
+                        <mxPoint x="534" y="190" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="43" value="&lt;span style=&quot;font-size: 13px; font-family: Calibri, sans-serif;&quot;&gt;Фаза тестирования&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="190" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="&lt;p style=&quot;margin: 0cm; font-size: 13px; font-family: Calibri, sans-serif;&quot; class=&quot;MsoNormal&quot;&gt;Написание тест-кейсов&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="280" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="&lt;span style=&quot;font-size: 13px; font-family: Calibri, sans-serif;&quot;&gt;Приемо-сдаточные испытания&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="370" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="&lt;span style=&quot;font-size: 13px; font-family: Calibri, sans-serif;&quot;&gt;Тестирование системы в среде заказчика&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="460" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="&lt;span style=&quot;font-size: 13px; font-family: Calibri, sans-serif;&quot;&gt;Пост-внедрение&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="890" y="190" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="&lt;span style=&quot;font-size: 13px; font-family: Calibri, sans-serif;&quot;&gt;Техническое обслуживание&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="890" y="280" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="&lt;span style=&quot;font-size: 13px; font-family: Calibri, sans-serif;&quot;&gt;Мониторинг производительности&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="890" y="370" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="779.66" y="130" as="sourcePoint"/>
+                        <mxPoint x="779.66" y="190" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="52" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontColor=#F0F0F0;fontSize=13;align=center;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="533.9999999999999" y="70" as="sourcePoint"/>
+                        <mxPoint x="533.9999999999999" y="130" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
